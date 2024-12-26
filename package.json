@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "hardhat": "^2.18.1"
+  },
+  "dependencies": {
+    "@axelar-network/axelarjs-sdk": "^0.13.9",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "dotenv": "^16.4.7"
+  }
+}

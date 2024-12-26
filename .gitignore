@@ -1,0 +1,7 @@
+node_modules
+cache
+.env
+token/artifacts
+token/cache
+token/node_modules
+token/.env
